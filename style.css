@@ -1,0 +1,129 @@
+.blue {
+    background-color: #1f2937;
+}
+
+
+header a {
+    font-size: 18px;
+    color: #e5e7eb;
+
+
+}
+
+.link {
+
+    display: flex-inline;
+    justify-content: flex-end;
+
+}
+
+header h2 {
+    font-size: 24px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 100px;
+    display: inline;
+}
+
+header {
+    padding: 1rem;
+}
+
+.signup {
+    display: flex;
+    justify-content: stretch;
+
+    margin-left: 5rem;
+    margin-right: 3rem;
+    padding: 3rem;
+}
+
+.second h1 {
+    color: #f9faf8;
+}
+
+.second p {
+    color: #e5e7eb;
+}
+
+.image {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7e5;
+    background-color: grey;
+    padding: 5em;
+    margin: 2em;
+
+
+}
+
+
+.second {
+    display: flex;
+    flex-direction: column;
+
+}
+
+button {
+    padding: 10px;
+    margin: 2px;
+    width: 100px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 10px;
+}
+
+#third h1 {
+    display: flex;
+    justify-content: center;
+    color: #1f2937;
+    font-weight: 600;
+}
+
+.illustrations {
+    display: flex;
+    justify-content: center;
+
+}
+
+.illust {
+    padding: 3em;
+    margin: 10px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.box p {
+    width: 7em;
+    text-align: center;
+    margin: 5px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    padding: 5em;
+    padding-left: 10em;
+    padding-right: 10em;
+
+
+}
+
+.quote h2 {
+    font-weight: 5;
+    font-style: italic;
+}
+
+.quote h3 {
+    text-align: right;
+}
